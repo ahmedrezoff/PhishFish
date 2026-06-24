@@ -1,0 +1,19 @@
+# Phish Fish Blocklist
+phishing-site.com
+malicious-domain.xyz
+fake-login.com
+bad-phishing-site.top
+login-verify-secure-bank.xyz
+very-bad-phishing.top
+login-phishing-bank.top
+paypal.security-alert.com
+account-update-paypal.secure-verification.xyz
+amazon.account.verify.security-update.info
+chase-online-banking.work
+amazon-gift-card-claim.xyz
+get-money-real.xyz
+get-money-bank.xyz
+paypai.com
+paypal.accounts.com
+paypai.
+mnscrosoft.

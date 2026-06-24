@@ -1,0 +1,22 @@
+# Security Overrides & Env Variables
+.env
+*.env
+credentials*
+secrets*
+
+# Python & C++ Compilation Artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+bin/
+obj/
+*.out
+*.exe
+*.o
+*.obj
+
+# System Noise
+.DS_Store
+Thumbs.db
